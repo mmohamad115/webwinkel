@@ -1,0 +1,26 @@
+* {
+    
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+    background: white;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+.row{
+    margin-top: 7%;
+}
+h2{
+    text-align: center;
+    margin-left: 39%;
+}
+h4{
+    text-align: center;
+    margin-left: 1%;
+    margin-top: 0px;
+}
+.details{
+    margin: 0px;
+}
